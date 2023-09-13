@@ -1,0 +1,9 @@
+
+ol[start]{
+    background-color: darkgoldenrod;
+}
+
+
+.Skills li::first-letter{
+    font-size: xx-large;
+}

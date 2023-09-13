@@ -1,0 +1,27 @@
+div{
+width: 200px;
+height: 200px;
+}
+
+
+.top-container{
+font-family: Arial, Helvetica, sans-serif;
+font-size: xx-large;
+background-color: blue;
+border: black solid 10px;
+padding: 20px;
+}
+.mid-container{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    background-color: red;
+    border: black solid 20px;
+    margin-left: 260px;
+}
+.low-container{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    background-color: yellow;
+    border: black solid 10px;
+    margin-left: 500px;
+}

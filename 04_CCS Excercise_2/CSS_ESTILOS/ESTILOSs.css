@@ -1,0 +1,22 @@
+div {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    display: inline-block;
+}
+
+
+.top-container {
+    background-color: red;
+    left: 200px;
+}
+
+.mid-container {
+    background-color: blue;
+    left: 0px;
+}
+
+.low-container {
+    background-color: yellow;
+    left: 400px;
+}
